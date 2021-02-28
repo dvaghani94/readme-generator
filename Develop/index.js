@@ -33,6 +33,11 @@ const questions = [
         message: 'Please provide names of collaborators and technologies used during the creation of the project.',
     },
     {
+        type: 'input',
+        name: 'links',
+        message: 'Please insert links for the project here.',
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What kind of license is your project using?',

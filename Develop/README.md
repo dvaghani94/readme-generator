@@ -3,20 +3,20 @@
   README Generator
 
   ##Description
-  Creating a readme.md file.
+  Creating a README.md.
   
 * [License](#license)
 
 
   ##Installation
-  Open up terminal in index.js file
+  Open up terminal in index.js
 
   ##Usage
-  Answer the questions when prompted.
+  Answer questions when prompted.
   ## License
 
   ##Credit
-  n/a
+  node
 
   ##License
   ![Github license](https://img.shields.io/badge/license-MIT-red.svg)
